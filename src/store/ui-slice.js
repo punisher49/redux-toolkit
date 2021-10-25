@@ -9,7 +9,6 @@ const uiSlice = createSlice({
     },
   },
 });
-console.log(uiSlice);
 
 export const uiActions = uiSlice.actions;
 
